@@ -32,6 +32,7 @@ function generateMarkdown(data) {
 
   ## Questions
   To see more of my work view my GitHub profile: [https://github.com/${data.github}/](https://github.com/${data.github}/).
+  
   For additional questions email me here with the repo name as the subject line: ${data.email}
   `;
 }
