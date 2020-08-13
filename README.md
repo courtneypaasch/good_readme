@@ -12,7 +12,7 @@ When creating an open source project on GitHub, it is important to have a qualit
   * [Contributing](#contribution-guidelines)
   * [Test](#tests)
   * [Questions](#questions)
-  * 
+  
   ## Installation
   Run the following to install necessary packages:
   npm i 
